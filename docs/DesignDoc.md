@@ -1,4 +1,4 @@
-# PROJECT Design Documentation
+# Project Horus Design Documentation
 
 ## Team Information
 * Team Name: Cyber C8ks
